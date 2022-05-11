@@ -24,7 +24,7 @@ In normal mode you can repeat a command multiple times, suppose you wanted to th
 following 10 lines, you could write:
 - `10dd`
 
-## COMMANDS
+## Vim Commands
 To write a commnd you must first type : in NORMAL mode
 Some useful commands:
 - `:w` (save the current file)
