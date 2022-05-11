@@ -1,6 +1,8 @@
 # Vim Cheatsheet
 When you boot VIM you enter NORMAL mode
+
 To enter INSERT mode type: `i`
+
 To exit INSERT mode type: `ESC`
 
 Note: When you are insert mode, you will see `-- INSERT --` on the bottom
@@ -12,7 +14,8 @@ will be able to use the arrow keys to navigate, and you can type as normal
 
 ## NORMAL Mode
 Normal mode allows you to take advantage of Vim's shortcuts.
-Some useful shortcuts:
+
+### Some useful shortcuts:
 - `yy` (yank (copy))
 - `p` (paste)
 - `dd` (delete)
@@ -26,7 +29,8 @@ following 10 lines, you could write:
 
 ## Vim Commands
 To write a commnd you must first type : in NORMAL mode
-Some useful commands:
+
+### Some useful commands:
 - `:w` (save the current file)
 - `:q` (exit the current file)
 - `:wq` (save and exit the current file)
